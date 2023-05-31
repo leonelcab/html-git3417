@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "tal7aouy.rainbow-bracket",
+        "esbenp.prettier-vscode",
+        "pkief.material-icon-theme",
+        "ritwickdey.liveserver",
+        "oderwat.indent-rainbow",
+        "kisstkondoros.vscode-gutter-preview",
+        "formulahendry.auto-rename-tag",
+        "ecmel.vscode-html-css"
+    ]
+}
